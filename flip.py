@@ -1,7 +1,7 @@
 '''
 Room Script: https://tryhackme.com/room/flip
 
-Medium Article for explanation: https://medium.com/@Sle3pyHead/
+Medium Article for explanation: https://medium.com/@Sle3pyHead/flip-ctf-notes-tryhackme-1a52d98b2275
 
 '''
 
