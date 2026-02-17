@@ -1,7 +1,7 @@
 '''
 Room Script: https://tryhackme.com/room/lafb2026e8
 
-Medium Article for explanation: https://medium.com/@Sle3pyHead/
+Medium Article for explanation: https://medium.com/@Sle3pyHead/signed-messages-ctf-notes-tryhackme-777aae147892
 
 Installation Requirements
 python3 -m venv venv
